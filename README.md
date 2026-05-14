@@ -1,4 +1,4 @@
-# Hi, I'm Karina 👋
+# Hi, I'm Karina
 
 Aspiring Data Analyst & Petrochemical Engineer based in Dublin, Ireland.
 
