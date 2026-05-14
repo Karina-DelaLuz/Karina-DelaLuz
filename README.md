@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Karina 👋
 
-<!--
-**Karina-DelaLuz/Karina-DelaLuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst & Petrochemical Engineer based in Dublin, Ireland.
 
-Here are some ideas to get you started:
+I recently completed a Diploma in Data Analytics, where I worked on projects involving:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL & Python
+- Machine Learning
+- Data Warehousing
+- Power BI & Tableau
+- BigQuery & Snowflake
+- Data Modelling & ETL Pipelines
+
+## Featured Projects
+- FinTech Machine Learning Project
+- Retail Data Warehouse using BigQuery
+- Smart City Data Strategy
+
+## Tech Stack
+Python | SQL | Power BI | Tableau | BigQuery | Snowflake | Excel
+
+## About Me
+- Based in Dublin (Stamp 1G)
+- Background in Petrochemical Engineering
+- Marathon runner
+- Currently growing my portfolio in Data Analytics
+
+## Connect with me
+- LinkedIn: www.linkedin.com/in/karinadelaluz
